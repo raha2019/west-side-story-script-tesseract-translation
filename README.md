@@ -7,4 +7,5 @@ run the python file and <b>make sure you have all the required modules.</b>
 
 <b>You can also download the txt file or the pdf file for the actual script</b>
 
-My friend wanted this done so that way he could search up words through the book, since the pdf didn't allow him to do that. 
+My friend wanted this done so that way he could search up words through the book, since the pdf didn't allow him to do that.  
+This is what the intended purpose of this program is and why I made it.
